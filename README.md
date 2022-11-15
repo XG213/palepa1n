@@ -4,4 +4,4 @@ all i did was add a --skipfakefs option to skip creating the fakefs and just mou
 DO NOT USE THIS TO AVOID CREATING FAKEFS
 this is only for if you already have the fakefs and are too lazy to delete it cuz u screwd smth up and need to re jb or smth
 # oh yea and
-This software is provided as-is, if u kill smth dont blame me i warned u (its also probs a skill issue)
+This software is provided as-is, if u kill smth dont blame me i warned u (its also sounds like a skill issue)
